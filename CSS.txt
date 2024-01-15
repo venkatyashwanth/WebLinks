@@ -1,0 +1,21 @@
+//
+Custom-ScrollBars: https://css-tricks.com/custom-scrollbars-in-webkit/
+
+//
+Background-position: 
+
+background-image & background-color: https://www.w3schools.com/cssref/tryit.php?filename=trycss3_background_hero
+
+Using Gif & background-attachment: https://www.w3schools.com/cssref/tryit.php?filename=trycss_background-position_percent
+
+//
+Box-Shadow: 
+
+Inset:  https://www.w3schools.com/css/tryit.asp?filename=trycss3_box-shadow8
+
+Multiple box shadows: https://www.w3schools.com/css/tryit.asp?filename=trycss3_box-shadow9
+
+//
+resize: 
+
+resize-box:  https://www.w3schools.com/cssref/tryit.php?filename=trycss3_resize
