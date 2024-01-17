@@ -18,3 +18,6 @@ git push -u origin main
 
 //
 Push Existing code to present repository: 
+git add .
+git commit -m "second"
+git push
