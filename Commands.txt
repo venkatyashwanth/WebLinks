@@ -9,13 +9,37 @@ A Brief Introduction to the command line.
 Note: Hit Tab for autocomplete
 > clear (For clearing screen)
 > mkdir <-folder-name->
-> touch <-folder-name-> (for windows)
+> touch <-file-name-> (for windows)
 > cd .> <-filename-> (creates new file)
 > cp <-filename-> .. (copys the file to one step back folder)
 > mv <-filename-> .. (moves the file to one step back folder)
 > rm <-filename-> (deletes the file). 
 Note: rm removes file permanently not into trash. 
 > rm -r <-foldername->
+
+//Installing SASS and NPM: 
+> node -v (shows the current version of node)
+> npm init (creates package.json file) 
+> npm install <-package name-> --save-dev (install files as dev dependencies). 
+> npm install <-package name-> --save (install files as dependencies).
+
+Installing nodemodules from package.json
+> npm install
+
+Installing nodemodules from package.json
+> npm uninstall <-package name-> --save
+
+// Write and Compile Sass Locally: 
+"scripts":{
+	"scss":"node-sass <-inputfile-> <-outputfile-> -w"
+}
+
+"scripts":{
+	"scss":"node-sass sass/main.scss css/style.css -w"
+}
+
+> npm run scss
+
 
 Git Commands: 
 //
@@ -40,3 +64,6 @@ Push Existing code to present repository:
 git add .
 git commit -m "second"
 git push
+
+//Remove Origin
+> git remote remove origin
