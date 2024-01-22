@@ -1,3 +1,22 @@
+Command Lines: 
+A Brief Introduction to the command line. 
+//Windows
+> dir (forwindows)
+> ls (for mac)
+> ls -a (show hidden files)
+> cd <-filename-> (Navigating the directory)
+> cd .. (moves us one step back from the folder)
+Note: Hit Tab for autocomplete
+> clear (For clearing screen)
+> mkdir <-folder-name->
+> touch <-folder-name-> (for windows)
+> cd .> <-filename-> (creates new file)
+> cp <-filename-> .. (copys the file to one step back folder)
+> mv <-filename-> .. (moves the file to one step back folder)
+> rm <-filename-> (deletes the file). 
+Note: rm removes file permanently not into trash. 
+> rm -r <-foldername->
+
 Git Commands: 
 //
 create a new repository on the command line: 
