@@ -1,3 +1,10 @@
+Live Server: 
+Global Installation: 
+> npm install live-server -g
+
+calling the file: 
+>live-server
+
 Command Lines: 
 A Brief Introduction to the command line. 
 //Windows
